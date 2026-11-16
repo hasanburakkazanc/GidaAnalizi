@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Gecici / gizli
+gecici.jpg
+.env
+*.log
+.vscode/
